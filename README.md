@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-<h3 align="center">Frontend evolucionando</h3>
+<h3 align="center">Frontend evolving</h3>
 
 - 📝 I regularly write articles on [Knowbud.com](https://lcg-knowbud.netlify.app/)
 - 💬 Ask me about **react, js, css y html**
