@@ -4,16 +4,14 @@
 
 <h3 align="center">Frontend evolving</h3>
 
-- 📝 I regularly write articles on [Knowbud.com](https://lcg-knowbud.netlify.app/)
+- 📝 I regularly write articles on [Knowbud.com]([https://lcg-knowbud.netlify.app/](https://29da458f.lcg-knowbud.pages.dev/))
 - 💬 Ask me about **react, js, css y html**
 <!-- - 📄 Know about my experiences [resume.com](resume.com) -->
 
 <br>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 🌐 &nbsp;
-  - 
-    <img src="https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white"> 
+- 🌐 &nbsp;    <img src="https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/-CSS-dodgerblue?style=flat&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-React-deepskyblue?style=flat&logo=react&logoColor=ffffff">
@@ -26,26 +24,17 @@
     <img src="https://img.shields.io/badge/-Storybook-hotpink?style=flat&logo=Storybook&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-Vitest-olivedrab?style=flat&logo=Vitest&logoColor=ffffff">
 
-- ⚙️ &nbsp;
-  -
-    <img src="https://img.shields.io/badge/-Git-E34F26?style=flat&logo=git&logoColor=ffffff">
+- ⚙️ &nbsp;  <img src="https://img.shields.io/badge/-Git-E34F26?style=flat&logo=git&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-GitHub-gray?style=flat&logo=Github&logoColor=ffffff">
 
-- 🔧 &nbsp;
-  -
-    ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+- 🔧 &nbsp;  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <div align="center">
   <a href="https://github.com/Lachicagladiadora">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lachicagladiadora&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <br>
-<h3> 📫 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/dev-roseny-quintanilla/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Roseny%20-black?style=flat-square&logo=linkedin&logoColor=blue"></a>
-<a href="dev.roseny@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dev.roseny@gmail.com-black?style=flat-square&logo=gmail"></a>
-</p>
+<h3> 📫 &nbsp;Connect with Me </h3> <a href="https://www.linkedin.com/in/dev-roseny-quintanilla/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Roseny%20-black?style=flat-square&logo=linkedin&logoColor=blue"></a><a href="dev.roseny@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dev.roseny@gmail.com-black?style=flat-square&logo=gmail"></a>
 
 <!--
 **Lachicagladiadora/Lachicagladiadora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
