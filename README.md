@@ -1,7 +1,7 @@
-## Hi there 👋 I'm Roseny, frontend developer 👨‍💻
+## Hi there 👋 I'm Roseny, frontend developer 👩‍💻
 <h4 align="center">Frontend evolving</h4>
 <!-- <hr> -->
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👩‍💻 &nbsp;About Me </h3>
 
 - 🔭 I’m currently working on [Bit Sip](https://github.com/rishavanand/github-profilinator) a recipe web app
 - 📝 I regularly write articles on [Knowbud.com]([[https://lcg-knowbud.netlify.app/](https://29da458f.lcg-knowbud.pages.dev/](https://29da458f.lcg-knowbud.pages.dev/)))
