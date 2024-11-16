@@ -4,14 +4,14 @@
 
 <h3 align="center">Frontend evolving</h3>
 
-- 📝 I regularly write articles on [Knowbud.com]([https://lcg-knowbud.netlify.app/](https://29da458f.lcg-knowbud.pages.dev/))
+- 📝 I regularly write articles on [Knowbud.com]([[https://lcg-knowbud.netlify.app/](https://29da458f.lcg-knowbud.pages.dev/](https://29da458f.lcg-knowbud.pages.dev/)))
 - 💬 Ask me about **react, js, css y html**
 <!-- - 📄 Know about my experiences [resume.com](resume.com) -->
 
 <br>
 <h3> 🛠 &nbsp;Tech Stack</h3>
-
-- 🌐 &nbsp;    <img src="https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white"> 
+<div>
+    <img src="https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/-CSS-dodgerblue?style=flat&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-React-deepskyblue?style=flat&logo=react&logoColor=ffffff">
@@ -23,11 +23,9 @@
     <img src="https://img.shields.io/badge/-Cypress-darkcyan?style=flat&logo=Cypress&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-Storybook-hotpink?style=flat&logo=Storybook&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-Vitest-olivedrab?style=flat&logo=Vitest&logoColor=ffffff">
-
-- ⚙️ &nbsp;  <img src="https://img.shields.io/badge/-Git-E34F26?style=flat&logo=git&logoColor=ffffff">
+    <img src="https://img.shields.io/badge/-Git-E34F26?style=flat&logo=git&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-GitHub-gray?style=flat&logo=Github&logoColor=ffffff">
-
-- 🔧 &nbsp;  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+</div>
 <div align="center">
   <a href="https://github.com/Lachicagladiadora">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lachicagladiadora&layout=compact&langs_count=16&theme=dark"/>
