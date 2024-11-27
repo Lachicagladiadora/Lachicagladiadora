@@ -15,15 +15,16 @@
 <div>
     <img src="https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/-CSS-6f2fa0?style=flat&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-    <img src="https://img.shields.io/badge/-React-61dafb?style=flat&logo=react&logoColor=ffffff">
+    <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=000">
+    <img src="https://img.shields.io/badge/-React-61dafb?style=flat&logo=react&logoColor=000">
+    <img src="https://img.shields.io/badge/-Styled Components-bf4f74?style=flat&logo=styledcomponents&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-TypeScript-1572B6?style=flat&logo=TypeScript&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-Sass-cd669a?style=flat&logo=Sass&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-Next.Js-black?style=flat&logo=next.js&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-Tailwind-38BDF8?style=flat&logo=tailwindcss&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-Astro-e53ba2?style=flat&logo=astro&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-Jest-b2405d?style=flat&logo=Jest&logoColor=ffffff">
-    <img src="https://img.shields.io/badge/-Cypress-69D3A7?style=flat&logo=Cypress&logoColor=ffffff">
+    <img src="https://img.shields.io/badge/-Cypress-69D3A7?style=flat&logo=Cypress&logoColor=000">
     <img src="https://img.shields.io/badge/-Storybook-ff4785?style=flat&logo=Storybook&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-Vitest-olivedrab?style=flat&logo=Vitest&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-Git-E34F26?style=flat&logo=git&logoColor=ffffff">
