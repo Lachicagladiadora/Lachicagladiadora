@@ -27,6 +27,7 @@
     <img src="https://img.shields.io/badge/-Cypress-69D3A7?style=flat&logo=Cypress&logoColor=000">
     <img src="https://img.shields.io/badge/-Storybook-ff4785?style=flat&logo=Storybook&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-Vitest-olivedrab?style=flat&logo=Vitest&logoColor=ffffff">
+    <img src="https://img.shields.io/badge/-Playwright-45ba4b?style=flat&logo=Playwright&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-Git-E34F26?style=flat&logo=git&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-GitHub-gray?style=flat&logo=Github&logoColor=ffffff">
 </div>
