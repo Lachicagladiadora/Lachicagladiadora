@@ -3,7 +3,7 @@
 <!-- <hr> -->
 <h3> 👩‍💻 &nbsp;About Me </h3>
 
-- 🔭 I’m currently working on [Bit Sip](https://github.com/rishavanand/github-profilinator) a recipe web app
+- 🔭 I’m currently working on improve [Bit Sip](https://github.com/rishavanand/github-profilinator) a recipe web app
 - 📝 I regularly write articles on [Knowbud.com]([[https://lcg-knowbud.netlify.app/](https://29da458f.lcg-knowbud.pages.dev/](https://29da458f.lcg-knowbud.pages.dev/)))
 - 🌱 I’m currently learning clean code
 - ❓ Ask me about **react, js, css y html**
