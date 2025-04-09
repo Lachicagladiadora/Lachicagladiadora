@@ -3,6 +3,10 @@
 <!-- <hr> -->
 <h3> 👩‍💻 &nbsp;About Me </h3>
 
+Self-taught with a strong foundation in HTML, CSS and JavaScript.
+
+Experienced in personal and collaborative projects, looking for new opportunities.
+
 - 🔭 I’m currently working on improve [Bit Sip](https://github.com/rishavanand/github-profilinator) a recipe web app
 - 🌱 I’m currently learning clean code
 - ❓ Ask me about **react, js, css y html**
