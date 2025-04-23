@@ -1,9 +1,12 @@
-## Hi there 👋 I'm Roseny, frontend developer 👩‍💻
-<h4 align="center">Frontend evolving</h4>
+## Hi there 👋 I'm Roseny 
+<h4 align="center">Frontend Developer Self-taught   👩‍💻  </h4>
 <!-- <hr> -->
 <h3> 👩‍💻 &nbsp;About Me </h3>
 
 Self-taught with a strong foundation in HTML, CSS and JavaScript. Experienced in personal and collaborative projects, looking for new opportunities.
+
+ <a href="https://roseny.dev/"><img alt="Personal Website" src="https://img.shields.io/badge/Portfolio%20-9F4652?style=flat-rounded&logo=roseny&logoColor=9ca2c3"></a>
+    
 
 - 🔭 I’m currently working on improve [Bit Sip](https://github.com/rishavanand/github-profilinator) a recipe web app
 - 🌱 I’m currently learning clean code
@@ -40,8 +43,8 @@ Self-taught with a strong foundation in HTML, CSS and JavaScript. Experienced in
 
 <h3> 📫 &nbsp;Connect with Me </h3> 
 <div align="center">    
-    <a href="https://www.linkedin.com/in/dev-roseny-quintanilla/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin%20-blue?style=flat-square&logo=linkedin&logoColor=white"></a>
-    <a href="dev.roseny@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-snow?style=flat-square&logo=gmail"></a>
+   <a href="https://www.linkedin.com/in/dev-roseny-quintanilla/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin%20-blue?style=flat-rounded&logo=linkedin&logoColor=white"></a>
+    <a href="dev.roseny@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-snow?style=flat-rounded&logo=gmail"></a>
 </div>
 
 <br>
